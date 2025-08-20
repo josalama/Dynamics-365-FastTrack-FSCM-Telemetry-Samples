@@ -1,4 +1,4 @@
-# Errors Telemetry dasboard
+# Errors Telemetry dashboard
 This dashboard shows information about errors that are reported by the environments. Using this dashboard, it is possible to:
 - Investigate the nature and distributiion of the errors over time. 
 - Review the errors in the envirionemnts
